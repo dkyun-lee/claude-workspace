@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.omc/
+00_inbox/*
+10_project/*
+20_daily/*
+30_resource/*
+98_output/*
+99_archive/*
+!*/CLAUDE.md
+!*/README.md
