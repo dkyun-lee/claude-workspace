@@ -15,7 +15,7 @@ Claude Code는 ~/.claude/skills·agents에서만 읽으므로, 원본은 여기 
 ## 작업 규칙
 1. 새 스킬: 90_manual/templates/skill/ 복사 → skills/스킬명/ → SKILL.md 작성.
 2. 연결: `ln -s "$PWD/skills/스킬명" ~/.claude/skills/스킬명` (에이전트는 agents/이름.md 동일)
-3. 연결 확인: `ls -l ~/.claude/skills/스킬명` 이 wade 원본을 가리키는지. 새 세션에서 스킬 목록에 뜨는지 사용자에게 확인 요청.
+3. 연결 확인: `ls -l ~/.claude/skills/스킬명` 이 claude-workspace 원본을 가리키는지. 새 세션에서 스킬 목록에 뜨는지 사용자에게 확인 요청.
 4. 수정 시 changelog.md에 날짜 + 변경 + 이유.
 5. 매뉴얼에서 승격된 스킬이면 해당 매뉴얼에 "스킬로 승격: 스킬명" 표기.
 

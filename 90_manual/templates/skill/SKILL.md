@@ -9,7 +9,7 @@ description: {무엇을 하는 스킬인지 + 언제 쓰는지. 사용자가 할
 1.
 
 ## 결과물
-- wade/98_output/ 에 YYYY-MM-DD_내용.확장자 로 저장
+- claude-workspace/98_output/ 에 YYYY-MM-DD_내용.확장자 로 저장
 
 ## 주의
 - 비밀값은 .env 사용

@@ -1,4 +1,4 @@
-# wade — Claude 작업공간
+# claude-workspace — Claude 작업공간
 모든 업무를 번호 폴더로 나눠 관리하는 작업공간. 이 파일은 길 안내, 세부 규칙은 각 폴더 CLAUDE.md.
 
 ## 작업 시작 전

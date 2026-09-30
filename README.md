@@ -1,4 +1,4 @@
-# wade
+# claude-workspace
 
 Claude Code와 함께 일하기 위한 폴더 양식입니다.
 폴더마다 역할이 정해져 있어서, Claude가 "무엇을 어디서 찾고 어디에 저장할지" 헤매지 않고, 사람도 한눈에 파악할 수 있습니다.
@@ -22,11 +22,11 @@ Claude Code와 함께 일하기 위한 폴더 양식입니다.
 
 1. 저장소 받기
    ```
-   git clone <저장소 주소> wade
-   cd wade
+   git clone https://github.com/dkyun-lee/claude-workspace.git
+   cd claude-workspace
    ```
 2. (스킬이 있다면) 스킬 연결 — `40_toolkit/README.md` 참고
-3. wade 폴더에서 Claude Code 실행
+3. claude-workspace 폴더에서 Claude Code 실행
    ```
    claude
    ```

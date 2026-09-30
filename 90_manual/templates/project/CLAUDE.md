@@ -9,5 +9,5 @@
 - docs/progress.md — 진행 로그 (작업 끝날 때마다 기록)
 
 ## 규칙
-- 결과물 파일은 wade/98_output/ 에 저장
+- 결과물 파일은 claude-workspace/98_output/ 에 저장
 - {프로젝트 전용 규칙}

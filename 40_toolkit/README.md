@@ -5,7 +5,7 @@ Claude Code는 `~/.claude/` 안의 스킬만 인식하기 때문에, 여기 원�
 여기서 고치면 바로 반영됩니다.
 
 ## 처음 받았을 때 연결하기
-wade 폴더에서 스킬·에이전트마다 한 번씩 실행:
+claude-workspace 폴더에서 스킬·에이전트마다 한 번씩 실행:
 ```
 ln -s "$PWD/40_toolkit/skills/스킬명" ~/.claude/skills/스킬명
 ln -s "$PWD/40_toolkit/agents/에이전트명.md" ~/.claude/agents/에이전트명.md
