@@ -1,6 +1,19 @@
 .DS_Store
-.env
 .omc/
+
+# 비밀값 — .env 와 .env.prod/.env.local 등 변형 전부 (예시 파일 .env.example 만 허용)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# 설치물·캐시 (다시 설치 가능)
+node_modules/
+.venv/
+__pycache__/
+
+# 개인 작업물 — 각자 컴퓨터에만 (폴더 안내 파일만 공유)
 00_inbox/*
 10_project/*
 20_daily/*
