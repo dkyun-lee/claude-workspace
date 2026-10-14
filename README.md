@@ -33,12 +33,12 @@ Claude Code와 함께 일하기 위한 폴더 양식입니다.
 
 ## Claude에게 이렇게 말하면 됩니다
 
-- "새 프로젝트 seolare-landing 만들어줘"
+- "새 프로젝트 my-landing 만들어줘"
 - "매일 아침 광고 성과 알려주는 봇 새로 만들자"
 - "inbox 정리해줘"
 - "이 PDF 브랜드 자료로 정리해줘"
 - "Netlify 배포해줘" (매뉴얼이 있으면 매뉴얼대로 진행)
-- "seolare-landing 끝났어, 보관해줘"
+- "my-landing 끝났어, 보관해줘"
 
 ## 공유 범위
 
